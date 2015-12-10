@@ -27,7 +27,6 @@ CUSTOM_APPS = [
     #'django_extensions',
     #'reversion',
     #'debug_toolbar',
-    'myapp',
 ]
 
 INSTALLED_APPS = DEFAULT_APPS + CUSTOM_APPS
