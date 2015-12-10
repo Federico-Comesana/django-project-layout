@@ -1,0 +1,10 @@
+-r base.txt
+
+# Testing
+# nose
+# mock
+# django-nose
+# coverage
+# pep8
+# pyflakes
+# pylint

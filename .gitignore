@@ -1,0 +1,60 @@
+# do NOT track Python compilation files
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg*
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Logs
+*.log
+pip-log.txt
+
+#Databases
+*.db
+
+# Unit test / coverage reports
+.coverage
+.tox
+.cache/
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# IDE
+
+# Linux Editors & IDEs
+.idea
+*.sublime-project
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+*.swp
+*.swo
+*.pid
+
+.DS_Store
+.noseids

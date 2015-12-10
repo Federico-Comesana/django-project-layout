@@ -1,0 +1,9 @@
+This folder is used to store configuration files.
+
+These files are used while developing or deploying your Django project,
+so mainly they are webserver configurations.
+
+For instance:
+- Apache
+- Supervisord
+- Nginx

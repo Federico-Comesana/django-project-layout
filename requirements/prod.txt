@@ -1,0 +1,4 @@
+-r base.txt
+
+# Templates
+# django_compressor

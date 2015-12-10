@@ -1,0 +1,7 @@
+-r base.txt
+
+# Django==1.8.4
+# django-debug-toolbar
+
+# Deployment
+# Fabric
